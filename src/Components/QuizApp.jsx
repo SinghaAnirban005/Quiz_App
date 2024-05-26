@@ -61,7 +61,7 @@ function QuizApp() {
 
     } else {
       console.log("Game Over")
-      // You might want to add more logic here to show final score or reset the game
+      
     }
    
   }
