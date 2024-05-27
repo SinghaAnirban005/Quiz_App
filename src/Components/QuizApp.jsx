@@ -23,7 +23,7 @@ function QuizApp() {
     0 : ["Delhi", "West-Bengal", "Kerala"],
     1 : ["Mitochondria", "Abdomen", "Allele"],
     2 : ["Red", "Yellow", "Green"],
-    3 : ["Thanks for Playing"]
+    // 3 : ["Thanks for Playing"]
   }
 
 
@@ -107,3 +107,5 @@ function QuizApp() {
 
 export default QuizApp
 // The state of points wasnt updating immediately because of asynchronus nature of JS Hence we could use the useEffect hook 
+
+//quiz-app-snowy-rho.vercel.app --> Link to application deployed on vercel
